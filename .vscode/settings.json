@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "firmata4j-2.3.8.jar",
+        "slf4j-api-1.7.25.jar",
+        "c:\\Users\\crepi\\OneDrive\\Bureau\\slf4j-api-1.7.25.jar",
+        "jssc-2.8.0.jar"
+    ]
+}
